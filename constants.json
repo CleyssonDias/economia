@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "primary":"#7300FF",
+    "secondary": "#4f545c",
+    "error": "#FF0000"
+  },
+  "categorias":{
+    "compras":"1405895076504403988"
+  }
+}
